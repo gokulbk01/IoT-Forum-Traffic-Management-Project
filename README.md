@@ -22,3 +22,5 @@ For further inquiries or collaboration opportunities, please reach out to us via
 LinkedIn: https://www.linkedin.com/in/gokul-bk01/
 
 WhatsApp: +91 7758946564
+
+Here is the paper published for the project: https://ijisae.org/index.php/IJISAE/article/view/4520
